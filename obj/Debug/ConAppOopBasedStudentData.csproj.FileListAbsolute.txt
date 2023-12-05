@@ -1,0 +1,7 @@
+D:\ConAppOopBasedStudentData\bin\Debug\ConAppOopBasedStudentData.exe.config
+D:\ConAppOopBasedStudentData\bin\Debug\ConAppOopBasedStudentData.exe
+D:\ConAppOopBasedStudentData\bin\Debug\ConAppOopBasedStudentData.pdb
+D:\ConAppOopBasedStudentData\obj\Debug\ConAppOopBasedStudentData.csproj.AssemblyReference.cache
+D:\ConAppOopBasedStudentData\obj\Debug\ConAppOopBasedStudentData.csproj.CoreCompileInputs.cache
+D:\ConAppOopBasedStudentData\obj\Debug\ConAppOopBasedStudentData.exe
+D:\ConAppOopBasedStudentData\obj\Debug\ConAppOopBasedStudentData.pdb
